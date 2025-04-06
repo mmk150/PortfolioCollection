@@ -10,8 +10,8 @@ This is a single repository that serves as a "portfolio" of sorts for some misc.
 
 If you'd like some more samples of Python work that I've done, check out the "ML" folder in this repo that is organized separately and described below or look at the following public repositories of mine:
 
-- [Async Discord reminder bot with backend DB] (https://github.com/mmk150/reminder_bot)
-- A fullstack app mostly written in Javascript that uses Python for the data science portions: [EBook DataScience] (https://github.com/mmk150/ebookds)
+- [Async Discord reminder bot with backend DB](https://github.com/mmk150/reminder_bot)
+- A fullstack app mostly written in Javascript that uses Python for the data science portions: [EBook DataScience](https://github.com/mmk150/ebookds)
 - My solutions to [Advent of Code 2022](https://github.com/mmk150/AdventOfCode2022)
 
 More work available upon request, feel free to contact me.
@@ -27,7 +27,7 @@ The Go section of this repository has some toy projects that I've been fiddling 
 
 # Rust
 
-I reworked some old research project code in Rust in [this repository] (https://github.com/mmk150/MillerRabin).
+I reworked some old research project code in Rust in [this repository](https://github.com/mmk150/MillerRabin).
 
 
 # Javascript

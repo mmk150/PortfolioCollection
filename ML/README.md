@@ -28,7 +28,7 @@ Repository for a small subset of misc. work done for the [LMSYS - Chatbot Arena 
 
 Originally we attempted to perform a lot of text analysis (using NLP libraries like [SpaCy](https://spacy.io/) or classification models like [Debertav3](https://huggingface.co/microsoft/deberta-v3-base)) and then pursue a case-by-case analysis of whether the user was likely to rank a given model response higher or lower based on some natural language characteristics (i.e. is the grammar bad, is the punctuation incorrect, does it "sound like AI", etc.). This bore some fruit, but after running some experiments it appeared to be the case that the Gemma2 model was strictly better at guessing the users' preferences (and so their vote choice) across the board somehow. This was a bit curious.
 
-Eventually, the top scorers on the leaderboard for this competition rapidly converges to very very accurate scores. This was correctly identified by many as the hidden test set being leaked somewhere on the internet, and verified to be the case [here] (https://www.kaggle.com/competitions/lmsys-chatbot-arena/discussion/524079). After this was announced, our enthusiasm for the competition waned significantly and we more or less stopped work there.
+Eventually, the top scorers on the leaderboard for this competition rapidly converges to very very accurate scores. This was correctly identified by many as the hidden test set being leaked somewhere on the internet, and verified to be the case [here](https://www.kaggle.com/competitions/lmsys-chatbot-arena/discussion/524079). After this was announced, our enthusiasm for the competition waned significantly and we more or less stopped work there.
 
 
 ## LLM Finetuning

@@ -2,8 +2,8 @@
 
 If you'd like some more samples of Python work that I've done, check out the "ML" folder in this repo that is organized separately, or look at the following public repositories of mine:
 
-- [Async Discord reminder bot with backend DB] (https://github.com/mmk150/reminder_bot)
-- A fullstack app mostly written in Javascript that uses Python for the data science portions: [EBook DataScience] (https://github.com/mmk150/ebookds)
+- [Async Discord reminder bot with backend DB](https://github.com/mmk150/reminder_bot)
+- A fullstack app mostly written in Javascript that uses Python for the data science portions: [EBook DataScience](https://github.com/mmk150/ebookds)
 - My solutions to [Advent of Code 2022](https://github.com/mmk150/AdventOfCode2022)
 
 More work available upon request, feel free to contact me.
