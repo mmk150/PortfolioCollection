@@ -1,6 +1,6 @@
 # PortfolioCollection
 
-This is a single repository that serves as a "portfolio" of sorts for some misc. work of mine.
+This is a single repository that serves as a "portfolio" of sorts for some misc. work of mine. For isolated bits of work that didn't have their own dedicated repository (either because they were done in notebook form on Kaggle or I just didn't make a repo for them yet), I've uploaded them here for ease of reference. For existing work that I've done that do have their own public repositories, I've linked to them where relevant.
 
 
 
