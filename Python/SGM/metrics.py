@@ -66,7 +66,6 @@ def birchfield_tomasi(im1, im2, normed=True, sumup=True):
 def interpolate(im1, im2):
     # calculates the interpolateolated image value pixelwise
     # https://en.wikipedia.org/wiki/Birchfield%E2%80%93Tomasi_dissimilarity
-    # with reference to the expand function from a previous project
     rows, cols = im1.shape
     expanded1 = np.zeros(shape=(rows, cols * 2))
     expanded2 = np.zeros(shape=(rows, cols * 2))
