@@ -1,0 +1,2 @@
+
+The files ``ra_functions.py`` and ``image_functions.py`` contain some reworked versions of some code I wrote for a reasoning agent that attempts to solve [RPM style](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) test questions, done for some graduate coursework. Unfortunately I'm not at liberty to share the full project, but in their current state these two files just have some project-agnostic image manipulation functions made with NumPy.

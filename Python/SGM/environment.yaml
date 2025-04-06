@@ -1,0 +1,14 @@
+name: sgbm_compvis
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - numpy=1.21.2
+  - python=3.8
+  - scipy
+  - cython
+  - pip:
+    - scikit-learn
+    - opencv-python==4.5.4.58
+    - stereo-mideval
+    - numba

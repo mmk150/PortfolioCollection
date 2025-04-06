@@ -1,0 +1,3 @@
+
+1) ``gopython`` contains a quick little CLI tool that I made using Golang to help me run Python files while clearing some generated files automatically from given directories.
+2) ``goprimecheck`` contains some demo code for a primality test implemented via client-server model with sockets. The server ``goprimeserver`` uses sqlite to store information on previously checked prime numbers and connected clients, whereas the client ``goprimeclient`` performs the modular arithmetic calculations sent by the server upon connecting to it, before sending the results back to the server. This could be made more robust and expanded on but alas, time is limited. 
