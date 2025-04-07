@@ -33,6 +33,6 @@ Eventually, the top scorers on the leaderboard for this competition rapidly conv
 
 ## LLM Finetuning
 
-A separate repository for finetune work done in the above Kaggle competitions. I had to spend a significant amount of time wrestling with RocM to get these scripts and their dependencies working on my AMD GPUs, which included tinkering with the hipBLAS install script a bit (the default one provided in the RocM repository messed up all of the install directory pathing somehow).  
+A separate repository for finetune work done in the above Kaggle competitions. I had to spend a significant amount of time wrestling with ROCm to get these scripts and their dependencies working on my AMD GPUs, which included tinkering with the hipBLAS install script a bit (the default one provided in the ROCm repository messed up all of the install directory pathing somehow).  
 
 Eventually I got it working and was able to use it to generate data and finetune models for the above competitions. 
